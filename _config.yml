@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       General Apps Blog
+email:       taekjoo@generalapps.io
+author:      Taekjoo Chung
+description: "저는 루비, 파이썬 입문자입니다. 구글 애널리틱스와 통계, 데이터 사이언스를 공부하고 있습니다."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "/"
 
 # Google analytics
 google_analytics: UA-53548208-1
