@@ -3,7 +3,7 @@ layout:     post
 title:      General Apps Blog
 date:       2015-02-23 21:20:00
 summary:    블로그에 대한 간략한 설명
-categories: about
+categories: posts
 ---
 ## General Apps Blog
 ### Statics, Google Analytics, Something What I've learned.
