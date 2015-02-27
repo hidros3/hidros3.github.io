@@ -3,7 +3,7 @@ layout:     post
 title:      Think Stats
 date:       2015-02-24 13:16:00
 summary: I'm currently reading Chap2. of Think Stats by Allen B. Downey. I summarized something that I marked. Chap2 is about distributions. 
-categories: posts
+tags: books
 ---
 ## chap 2. Distributions
 
